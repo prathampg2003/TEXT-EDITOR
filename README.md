@@ -43,3 +43,6 @@ _**Saving and Loading Documents:**_
 3. When loading a document, the editor reads the file and populates the text area with the saved content and formatting.
 
 **This Java text editor provides an interface that resembles MS Word and offers essential features for text editing, formatting, and document management. You can enhance it further by incorporating additional functionality as per your specific requirements.**
+
+![image](https://github.com/pg348/Authentication-using-JWT-token/assets/89197939/1e27c4d6-f741-464b-abc5-de8caff5c0ba)
+
